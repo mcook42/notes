@@ -1,0 +1,8 @@
+{
+  "pinned": [
+    "editor:set-heading",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:toggle-bold"
+  ]
+}

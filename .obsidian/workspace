@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "72d8ceeafbcccdf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6461a706ba003b1b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Environment Secrets & CI CD Migration.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "37d7fcf2250b7f84",
+    "type": "split",
+    "children": [
+      {
+        "id": "66ca490b7568d20a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b411114dbc529a0a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ac3361eb5db81f61",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e5ffa2ce39535381",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "42be59f99bc9cb9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b89b231c244ac93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfc3f91899f10b62",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Environment Secrets & CI CD Migration.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a309b1426a8242a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Environment Secrets & CI CD Migration.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e6437a6ed7fa5e4f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4a516105783644a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Environment Secrets & CI CD Migration.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6461a706ba003b1b",
+  "lastOpenFiles": [
+    "Environment Secrets & CI CD Migration.md",
+    "GitHub Actions Migration.md",
+    "Terraform.md"
+  ]
+}
